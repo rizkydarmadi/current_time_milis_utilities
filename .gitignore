@@ -1,0 +1,8 @@
+env/
+pypyenv/
+**__pycache__**
+alembic.ini
+.env
+docker-compose.yml
+http_ca.crt
+NOTE.md
